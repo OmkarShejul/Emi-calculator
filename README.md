@@ -21,11 +21,11 @@ This is a simple web-based EMI (Equated Monthly Installment) calculator for ADFC
 ---
 
 ## 🧱 Project Structure
-emi-calculator/
-├── index.html # Main structure of the EMI Calculator
-├── style.css # CSS styles for the calculator layout and appearance
-├── script.js # JavaScript logic to calculate EMI and handle UI
-└── README.md # Project documentation
+emi-calculator/<br>
+├── index.html # Main structure of the EMI Calculator<br>
+├── style.css # CSS styles for the calculator layout and appearance<br>
+├── script.js # JavaScript logic to calculate EMI and handle UI<br>
+└── README.md # Project documentation<br>
 
 
 ---
@@ -47,8 +47,8 @@ emi-calculator/
 4.Click "Clear" to reset the form.
 
 💡 Technologies Used:
---HTML5 – Page structure
---CSS3 – Styling and layout
+--HTML5 – Page structure<br>
+--CSS3 – Styling and layout<br>
 --JavaScript – EMI calculation logic
 
 🙌 Acknowledgments
