@@ -16,3 +16,23 @@ emi-calculator/
 ├── style.css # Styling for the calculator
 ├── script.js # EMI calculation logic
 └── README.md # Project documentation
+
+## 🚀 How to Use
+
+1. Open `index.html` in your browser.
+2. Enter the loan amount, interest rate, and loan tenure.
+3. Click **"Calculate EMI"** to view results.
+4. Click **"Clear"** to reset the form.
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📦 Getting Started (for developers)
+
+```bash
+git clone [https://github.com/OmkarShejul/Emi-calculator.git]
+cd emi-calculator
+
