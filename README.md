@@ -11,3 +11,8 @@ A simple web application that allows users to calculate their monthly EMI (Equat
 
 ## 📁 Project Structure
 
+emi-calculator/
+├── index.html # Main HTML file
+├── style.css # Styling for the calculator
+├── script.js # EMI calculation logic
+└── README.md # Project documentation
