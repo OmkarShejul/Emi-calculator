@@ -47,9 +47,9 @@ emi-calculator/<br>
 4.Click "Clear" to reset the form.
 
 💡 Technologies Used:
---HTML5 – Page structure<br>
---CSS3 – Styling and layout<br>
---JavaScript – EMI calculation logic
+--HTML5 – Page structure <br>
+--CSS3 – Styling and layout <br>
+--JavaScript – EMI calculation logic <br>
 
 🙌 Acknowledgments
 This project is created for learning and personal use, inspired by basic loan calculators and financial tools.
