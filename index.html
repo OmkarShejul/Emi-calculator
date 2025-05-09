@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ADFC Bank Home Loan EMI Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="calculator">
+  <h2>ADFC Home Loan EMI Calculator</h2>
+  <input type="number" id="amount" placeholder="Loan Amount (₹)">
+  <input type="number" id="rate" placeholder="Annual Interest Rate (%)">
+  <input type="number" id="tenure" placeholder="Loan Tenure (Years)">
+  
+  <div class="button-group">
+    <button onclick="calculateEMI()">Calculate EMI</button>
+    <button onclick="clearFields()">Clear</button>
+  </div>
+
+  <div class="result" id="result" style="display: none;">
+    <p><strong>Monthly EMI:</strong> ₹<span id="emi"></span></p>
+    <p><strong>Total Interest:</strong> ₹<span id="interest"></span></p>
+    <p><strong>Total Payment:</strong> ₹<span id="total"></span></p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
