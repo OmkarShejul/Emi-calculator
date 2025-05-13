@@ -1,6 +1,6 @@
 # 🏦 ADFC Bank Home Loan EMI Calculator
 
-This is a simple web-based EMI (Equated Monthly Installment) calculator for ADFC Bank home loans. It helps users estimate their monthly payments, total interest, and total repayment amount based on input loan details.
+ADFC Bank Home Loan EMI Calculator is a simple web-based EMI (Equated Monthly Installment) calculator for ADFC Bank home loans. It helps users estimate their monthly payments, total interest, and total repayment amount based on input loan details.
 
 ---
 
